@@ -1,0 +1,19 @@
+.main-navbar {
+  background-color: rgb(219, 219, 221);
+}
+
+.navbar {
+  width: 100%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-decoration: none;
+}
+
+.btn {
+  border-radius: 0.5rem;
+  background-color: rgb(16, 193, 52);
+  border: none;
+}
+.btn:hover {
+  background-color: rgb(18, 195, 124);
+}

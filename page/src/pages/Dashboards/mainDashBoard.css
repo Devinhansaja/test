@@ -1,0 +1,11 @@
+.card-value {
+  background-color: #000101a4;
+  border-radius: 0.5rem;
+  width: fit-content;
+  padding: 10px;
+  margin: auto;
+}
+
+.dashboard-container {
+  background-color: white;
+}

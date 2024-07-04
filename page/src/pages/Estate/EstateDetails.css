@@ -1,0 +1,48 @@
+.vh-100 {
+    height: 100vh;
+    background-color: #f7f7f7;
+  }
+  
+  h2 {
+    color: #333;
+    font-weight: bold;
+    margin: 50px;
+  }
+  
+  .search-bar input {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  
+  .search-bar .input-group-text {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #e0e0e0;
+  }
+  
+  button {
+    background-color: #88c057;
+    border: none;
+  }
+  
+  button:hover {
+    background-color: #6aa03a;
+  }
+  
+  .table {
+    background-color: #e9f7df;
+  }
+  
+  .table th, .table td {
+    vertical-align: middle;
+  }
+  
+  .table th {
+    background-color: #d2ebc3;
+    text-align: center;
+  }
+  
+  .table tbody tr:hover {
+    background-color: #d0f0c0;
+  }
+  

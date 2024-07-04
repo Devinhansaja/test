@@ -1,0 +1,24 @@
+footer {
+  background-color: #eeeaea;
+  color: #212529;
+  padding-top: 10px; /* Reduce top padding */
+  padding-bottom: 10px; /* Reduce bottom padding */
+  /* width: 100vw; */
+}
+
+footer h5 {
+  margin-bottom: 5px; /* Reduce bottom margin */
+}
+
+footer address {
+  margin-bottom: 5px; /* Reduce bottom margin */
+}
+
+footer a {
+  color: #212529;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
